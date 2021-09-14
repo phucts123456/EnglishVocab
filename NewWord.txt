@@ -1,2 +1,9 @@
 appeal (n) : hap dan
 appealing(adj):
+broadly(adv) một cách rộng rãi
+cryptographic system hệ thống mật mã
+cryptanalysis: nhà Phân tích mật mã
+cryptographer:người tạo mật mã
+compromise(n):thỏa hiệp ,hòa giải
+inherently adversarialư
+conference:hội nghị
