@@ -7,3 +7,6 @@ cryptographer:người tạo mật mã
 compromise(n):thỏa hiệp ,hòa giải
 inherently adversarialư
 conference:hội nghị
+reassurance(n): sự trấn an,sự bảo hiểm
+assurance (n):bảo hiểm
+guarantees(n):bảo hành bảo đảm
